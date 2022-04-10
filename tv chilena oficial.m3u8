@@ -1,0 +1,10 @@
+http://138.36.253.12:8009/play/a012/index.m3u8
+#EXTINF:-1,CANAL 13
+http://138.36.253.12:8009/play/a00p/index.m3u8
+#EXTINF:-1,CHV
+#EXTINF:-1,LA RED
+http://138.36.253.12:8009/play/a00r/index.m3u8
+#EXTINF:-1,MEGA
+http://138.36.253.12:8009/play/a00o/index.m3u8
+#EXTINF:-1,TVN
+http://138.36.253.12:8009/play/a00n/index.m3u8
